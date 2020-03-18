@@ -14,7 +14,7 @@ build_search_index = false
 
 theme = "hyde"
 
-description = "ролевиков болеет коронавирусом. Подробности:"
+description = "ролевиков болеет коронавирусом."
 
 title = "0"
 
@@ -24,5 +24,7 @@ title = "0"
 hyde_reverse = true
 
 hyde_links = [
+    {url = "/corona-comcon", name = "Подробности"},
     {url = "comcon", name = "Комкон (18 марта)"},
+    {url = "cancel-games", name = "Что с играми? (18 марта)"},
 ]
