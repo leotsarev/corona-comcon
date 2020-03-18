@@ -14,5 +14,15 @@ build_search_index = false
 
 theme = "hyde"
 
+description = "ролевиков болеет коронавирусом. Подробности:"
+
+title = "0"
+
 [extra]
 # Put all your custom variables here
+
+hyde_reverse = true
+
+hyde_links = [
+    {url = "/comcon", name = "Комкон (18 марта)"},
+]
