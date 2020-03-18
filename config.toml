@@ -25,6 +25,6 @@ hyde_reverse = true
 
 hyde_links = [
     {url = "/", name = "Подробности"},
-    {url = "comcon", name = "Комкон (18 марта)"},
-    {url = "cancel-games", name = "Что с играми? (18 марта)"},
+    {url = "/comcon", name = "Комкон (18 марта)"},
+    {url = "/cancel-games", name = "Что с играми? (18 марта)"},
 ]
