@@ -24,7 +24,8 @@ title = "0"
 hyde_reverse = true
 
 hyde_links = [
-    {url = "/", name = "Подробности"},
+    {url = "/", name = "Короновирус и РИ"},
+    {url = "/links", name = "Общеполезные ссылки"},
     {url = "/comcon", name = "Комкон (18 марта)"},
     {url = "/cancel-games", name = "Что с играми? (18 марта)"},
 ]
