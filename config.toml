@@ -16,7 +16,7 @@ theme = "hyde"
 
 description = "ролевиков болеет коронавирусом."
 
-title = "0 или 1"
+title = "0"
 
 [extra]
 # Put all your custom variables here
