@@ -27,5 +27,5 @@ hyde_links = [
     {url = "/", name = "Коронавирус и РИ"},
     {url = "/links", name = "Общеполезные ссылки"},
     {url = "/comcon", name = "Комкон (19 марта)"},
-    {url = "/cancel-games", name = "Что с играми? (19 марта)"},
+    {url = "/cancel-games", name = "Что с играми? (20 марта)"},
 ]
