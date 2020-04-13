@@ -1,5 +1,5 @@
 +++
-title = "09 апреля 2020"
+title = "13 апреля 2020"
 +++
 
 ![DO NOT PANIC](do-not-panic-skuns-protivogaz.jpg)
@@ -10,7 +10,7 @@ title = "09 апреля 2020"
 
 Заболели [Торкес](https://www.facebook.com/anna.torkes/posts/2956225221080970) и [Ори](https://vk.com/wall3409833_4143).
 
-Заболел [Илья Халиль](https://vk.com/wall4329581_1117?from=wall4329581#comments).
+Заболели [Илья Халиль](https://vk.com/wall4329581_1117) и Женя Бурова.
 
 Здесь собираем факты (и только их) про коронавирус и ролевиков.
  
