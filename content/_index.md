@@ -61,5 +61,5 @@ title = "22 мая 2020"
 
 ### Эта страница
 
-© **ЛеоЦарев, 2020**
+© **Атана&ЛеоЦарев, 2020**
 [Редактировать на github](https://github.com/leotsarev/corona-comcon/blob/master/content/_index.md)
