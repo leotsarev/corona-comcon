@@ -10,6 +10,7 @@ title = "3 июня 2020"
 
 3 июля. Давненько здесь не было обновлений, но народ интересуется, как там дела у ролевиков. Обновления по нашим товарищам по хобби в записях ниже и свежие случаи (и обновление счетчика, само собой)
 
+* [Болеет Ваня Куркин](https://web.facebook.com/iv.kurkin/posts/3601799833182386?__cft__[0]=AZX5oakt1oean4_etrSZDFOeSlrMrXpQLLk3yI-hN_qzmOoLzfUZWRmyhJrHa7QRIUlAXNBto27PjDMujW09Hay_IhxxAsn7IF2FcgO-H_5MUZpzVxnsWiDqDZ_HJtgZfTE&__tn__=%2CO%2CP-R)
 * [Переболел Олаф](https://vk.com/wall1431289_1820)
 * [Болел Tsubasa](https://mobile.twitter.com/SpbTsubasa/status/1271758083241451520). Кажется, [в реестр РПН не попал](https://mobile.twitter.com/SpbTsubasa/status/1272454583562969089), поэтому выздоровел тихонько и без фанфар исключения из оифциальных список. 
 
