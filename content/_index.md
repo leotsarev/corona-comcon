@@ -1,5 +1,5 @@
 +++
-title = "3 июля 2020"
+title = "8 июля 2020"
 +++
 
 ![DO NOT PANIC](do-not-panic-skuns-protivogaz.jpg)
